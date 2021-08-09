@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyDesign UI</string>
+    <style name="circleimg">
+        <item name="android:background">@drawable/circle</item>
+        <item name="android:layout_width">30dp</item>
+        <item name="android:layout_height">30dp</item>
+        <item name="android:shadowColor">@color/black</item>
+    </style>
+</resources>

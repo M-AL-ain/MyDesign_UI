@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ImageShape" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="cornerSize">40dp</item>
+    </style>
+
+    <style name="Imagelibar" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="cornerSize">10dp</item>
+    </style>
+
+    <style name="Imagelibar2" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="cornerSize">15dp</item>
+    </style>
+
+    <style name="Corner50Percent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <style name="RoundedImage" parent="">
+        <item name="android:layout_width">65dp</item>
+        <item name="android:layout_height">65dp</item>
+        <item name="android:layout_marginTop">16dp</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:elevation">16dp</item>
+        <item name="android:padding">8dp</item>
+    </style>
+
+    <style name="main">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="shape3">
+
+        <item name="android:topRightRadius">35dp</item>
+        <item name="android:bottomLeftRadius">35dp</item>
+        <item name="android:bottomRightRadius">35dp</item>
+        <item name="android:topLeftRadius">35dp</item>
+    </style>
+
+
+</resources>

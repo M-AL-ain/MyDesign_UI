@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/MyDesignUI/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2125" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/MyDesignUI/app/src/main/res/drawable/Starbucks22222_background.xml" value="0.2125" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/MyDesignUI/app/src/main/res/drawable/Starbucks_background.xml" value="0.2125" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/MyDesignUI/app/src/main/res/drawable/circle.xml" value="0.2125" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/MyDesignUI/app/src/main/res/drawable/group.xml" value="0.2125" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/MyDesignUI/app/src/main/res/drawable/ic_baseline_image_24.xml" value="0.2125" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/MyDesignUI/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.2125" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/MyDesignUI/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.2125" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/MyDesignUI/app/src/main/res/drawable/ic_baseline_phone_24.xml" value="0.2125" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/MyDesignUI/app/src/main/res/drawable/ic_baseline_timeline_24.xml" value="0.2125" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/MyDesignUI/app/src/main/res/drawable/ic_dkf.xml" value="0.2125" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/MyDesignUI/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2125" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/MyDesignUI/app/src/main/res/drawable/image2.xml" value="0.2125" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/MyDesignUI/app/src/main/res/drawable/jennifer_a_background.xml" value="0.2125" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/MyDesignUI/app/src/main/res/drawable/jennifer_background.xml" value="0.2125" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/MyDesignUI/app/src/main/res/drawable/line.xml" value="0.33" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/MyDesignUI/app/src/main/res/drawable/messenger.xml" value="0.2125" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/MyDesignUI/app/src/main/res/drawable/myphoto_background.xml" value="0.2125" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/MyDesignUI/app/src/main/res/drawable/shape3.xml" value="0.2125" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/MyDesignUI/app/src/main/res/drawable/shapemeassge.xml" value="0.2125" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/MyDesignUI/app/src/main/res/drawable/shapes.xml" value="0.2125" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/MyDesignUI/app/src/main/res/drawable/toolbar.xml" value="0.2125" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/MyDesignUI/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/MyDesignUI/app/src/main/res/mipmap-anydpi-v26/Starbucks.xml" value="0.10729166666666666" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/MyDesignUI/app/src/main/res/mipmap-anydpi-v26/Starbucks22222.xml" value="0.10729166666666666" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/MyDesignUI/app/src/main/res/mipmap-anydpi-v26/Starbucks22222_round.xml" value="0.10729166666666666" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/MyDesignUI/app/src/main/res/mipmap-anydpi-v26/Starbucks_round.xml" value="0.10729166666666666" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/MyDesignUI/app/src/main/res/mipmap-anydpi-v26/ariana.xml" value="0.10729166666666666" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/MyDesignUI/app/src/main/res/mipmap-anydpi-v26/ariana2.xml" value="0.10729166666666666" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/MyDesignUI/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2125" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/MyDesignUI/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2125" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/MyDesignUI/app/src/main/res/mipmap-anydpi-v26/jennifer.xml" value="0.10729166666666666" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/MyDesignUI/app/src/main/res/mipmap-anydpi-v26/jennifer_a.xml" value="0.10729166666666666" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/MyDesignUI/app/src/main/res/mipmap-anydpi-v26/jennifer_a_round.xml" value="0.10729166666666666" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/MyDesignUI/app/src/main/res/mipmap-anydpi-v26/jennifer_round.xml" value="0.10729166666666666" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/MyDesignUI/app/src/main/res/mipmap-anydpi-v26/myphoto.xml" value="0.2125" />
+        <entry key="..\:/Users/ASUS-1/AndroidStudioProjects/MyDesignUI/app/src/main/res/mipmap-anydpi-v26/myphoto_round.xml" value="0.2125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
